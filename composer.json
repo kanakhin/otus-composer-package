@@ -1,0 +1,16 @@
+{
+    "name": "kanakhin/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kanakhin\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kanakhin",
+            "email": "anton_kanahin@mail.ru"
+        }
+    ],
+    "require": {}
+}
