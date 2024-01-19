@@ -12,5 +12,7 @@
             "email": "anton_kanahin@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
